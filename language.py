@@ -117,7 +117,7 @@ st.markdown("""
 
 # Streamlit UI with professional background
 st.markdown('<h1 class="main-title">🌟 Language Translator</h1>', unsafe_allow_html=True)
-st.markdown('<p class="sub-title">Fast, Accurate, and Colorful Translations</p>', unsafe_allow_html=True)
+
 
 # Input text
 source_text = st.text_area("📝 Enter the text you want to translate:", "", height=150)
